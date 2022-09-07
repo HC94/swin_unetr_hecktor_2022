@@ -11,8 +11,8 @@ cross-validation on Hecktor 2022 challenge data (see `train.py`).
 
 
 
-The data augmentation and modeling were implemented using [Project MONAI 0.9](https://monai.io/) in 
-[PyTorch 1.10](https://pytorch.org/).
+The data augmentation and modeling were implemented using [Project MONAI 0.9](https://monai.io/) in
+[PyTorch 1.10](https://pytorch.org/) with Python 3.8.
 
 
 
